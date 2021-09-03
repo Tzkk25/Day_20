@@ -5,6 +5,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+<h1>你好,亲爱的小恐龙</h1>
   </body>
 </html>
